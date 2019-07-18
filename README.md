@@ -19,7 +19,9 @@ npm run build
 ```
 npm run lint
 ```
-###added a new branch and merged it, fun 
+### file structure
 ```
-wow
+main js :
+  >app.vue:
+    >menu
 ```
